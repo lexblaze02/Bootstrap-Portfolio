@@ -1,0 +1,42 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #474545c4;
+    color: white;
+    text-align: center;
+    border-top: 6px solid teal;
+}
+
+#name {
+    background-color: darkcyan;
+    color: white;
+}
+ .float {
+    display: inline-block;
+ }
+
+ .container1 {
+     border-bottom: 5px solid rgb(87, 86, 86);
+     background-color: floralwhite;
+ }
+
+ #wrapper{
+    width: 960px;
+    margin: 15px auto;
+    background-color: #faf9f9;
+ }
+
+.body {
+    background-color: gray;
+}
+
+#wrapper1{
+    float: left;
+    width: 400px;
+    height: 600px;
+    margin: 15px 100px;
+    background-color: #faf9f9;
+ }
+
